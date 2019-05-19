@@ -1,0 +1,2 @@
+# Lambda7
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/318e263c8b6444b98c4e4b630c967580)](https://app.codacy.com/app/Swethakadam/Lambda7?utm_source=github.com&utm_medium=referral&utm_content=Swethakadam/Lambda7&utm_campaign=Badge_Grade_Dashboard)
